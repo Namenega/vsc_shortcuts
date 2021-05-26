@@ -1,0 +1,36 @@
+Show all commands :					cmd + maj + P  or  F1
+Switch theme :						cmd K + cmd T
+Switch langage :					cmd K + M
+
+New window :						cmd + maj + N
+
+Close window :						maj + cmd + W
+Close file :						cmd + W
+Close workspaces :					cmd K + F
+Quit program :						cmd + Q
+
+Swap opened files :					cmd + Tab
+
+Run & Debug :						cmd + maj + D
+
+Open file :							cmd + O
+Open recent :						ctrl + R
+Open active file in new window :	cmd K + O
+Open settings :						cmd + ,
+
+Save file :							cmd + S
+Save file as :						cmd + maj + S
+
+Find :								cmd + F
+Find next :							cmd + G
+Find previous :						cmd + maj + G
+Find function :						cmd + maj + .
+
+Go to file :						cmd + P
+
+Open new external terminal :		cmd + maj + C
+
+Open keyboard shortcuts :			cmd K + cmd S
+
+Zoom in :							cmd + =
+Zoom out :							cmd + -

@@ -1,0 +1,27 @@
+Cursor undo :						cmd + U
+
+Go up :								↑
+Go down :							↓
+Go left :							←
+Go right :							→
+
+Add Cursor up :						option + cmd + ↑
+Add Cursor down :					option + cmd + ↓
+
+Move Cursor BoL :					cmd + ←
+Move Cursor EoL :					cmd + →
+
+Select character :					maj + ↑ / ↓ / ← / →
+Select word:						option + maj + ←→
+Select line :						
+Expand selection :					ctrl + maj + ←→
+Select all occurrences :			maj + cmd + L
+Select all :						cmd + A
+
+Delete left part cursor :			cmd + backspace
+Delete left word cursor :			option + backspace
+Delete after cursor :				ctrl + D
+
+Go to bracket :						maj + cmd + \
+Go to last edit :					cmd K + cmd Q
+Go to line :						ctrl + G

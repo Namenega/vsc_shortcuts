@@ -1,0 +1,49 @@
+42 header (ext) :					option + cmd + H
+
+Copy selection :					cmd + C
+Cut selection :						cmd + X
+Paste :								cmd + V
+Undo :								cmd + Z
+Redo :								cmd + maj + Z
+
+Go back :							ctrl + -
+Go forward :						ctrl + maj + -
+
+Comment a line :					cmd K + cmd C  or  cmd + /
+Remove comment :					cmd K + cmd U  or  cmd + /
+
+Move line up :						option + ↑
+move line down :					option + ↓
+
+Copy line up :						option + maj + ↑
+Copy line down :					option + maj + ↓
+
+Insert line up :					maj + cmd + enter
+Insert line down :					enter (lol)
+
+Join line with below one :			ctrl + j
+
+Indent line right :					cmd + ]  or  Tab
+Indent line left :					cmd + [  or  maj + Tab
+
+Fold :								option + cmd + [  or  cmd K + cmd [
+Unfold :							option + cmd + ]  or  cmd K + cmd ]
+Unfold all :						cmd K  + cmd J
+
+Select same word :					cmd + D
+Invert characters with the next :	ctrl + T
+Move selection to next match :		cmd K + cmd D
+Rename symbol :						F2
+Replace :							option + cmd + F
+
+Delete all left :					cmd + backspace
+Delete all right :					ctrl + K
+Delete line :						maj + cmd + K
+
+Go to definition :					F12
+Open definition to the side :		cmd K + F12
+Go to references :					maj + F12
+Peek definition :					option + F12
+Go to function :					cmd + T
+
+Add Breakpoint :					F9
